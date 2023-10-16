@@ -18,7 +18,7 @@ Clone the repository to your local machine or download the ZIP file.
 
 bash
 Copy code
-git clone https://github.com/your-username/travel-adventures-website.git
+git clone [https://github.com/your-username/travel-adventures-website.git](https://github.com/DhruvilDhorajiya/Travel_site.git)
 Open the index.html file in your web browser to view the website.
 
 Customization
