@@ -27,12 +27,6 @@ You can easily customize the website to fit your specific needs:
 1. Modify Destination Content
 You can change the images, destination names, and descriptions in the <div class="gallery-container"> section in the HTML file to showcase different destinations.
 html
-Copy code
-<div class="gallery-item">
-    <img src="new-image-url.jpg" alt="Destination Name">
-    <h3>Destination Name</h3>
-    <p>Description of the destination.</p>
-</div>
 2. Customize Colors and Styling
 Feel free to modify the CSS styles in the <style> section within the HTML file to change the colors, fonts, or other styling elements of the website to match your brand or personal preferences.
 3. Add More Pages
