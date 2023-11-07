@@ -29,9 +29,7 @@ You can change the images, destination names, and descriptions in the <div class
 html
 2. Customize Colors and Styling
 Feel free to modify the CSS styles in the <style> section within the HTML file to change the colors, fonts, or other styling elements of the website to match your brand or personal preferences.
-3. Add More Pages
-If you want to expand the website, you can create additional HTML files and link them in the navigation menu for different sections, such as "About Us," "Tours," or "Contact."
-4. Hosting
+3. Hosting
 To make your website accessible on the internet, you'll need to host it on a web server. You can use a service like GitHub Pages, Netlify, or a traditional web hosting provider.
 License
 This project is provided under the MIT License. You are free to use, modify, and distribute it according to the terms of the license. For more details, see the LICENSE file.
